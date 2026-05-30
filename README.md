@@ -39,12 +39,12 @@ curl -L "https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-base.en.
 ```bash
 # Claude Code slash command
 mkdir -p ~/.claude/commands
-curl -L "https://raw.githubusercontent.com/YOUR_USERNAME/generate-short-skill/main/.claude/commands/generate-short.md" \
+curl -L "https://raw.githubusercontent.com/kaipengyu/generate-short-skill/main/.claude/commands/generate-short.md" \
   -o ~/.claude/commands/generate-short.md
 
 # Python caption script
 mkdir -p ~/.claude/scripts
-curl -L "https://raw.githubusercontent.com/YOUR_USERNAME/generate-short-skill/main/scripts/burn_captions.py" \
+curl -L "https://raw.githubusercontent.com/kaipengyu/generate-short-skill/main/scripts/burn_captions.py" \
   -o ~/.claude/scripts/burn_captions.py
 ```
 
