@@ -4,7 +4,7 @@
     "Generate YouTube Short": {
       "source": "kaipengyu/generate-youtube-short",
       "sourceType": "github",
-      "skillPath": "skills/generate-youtube-short/SKILL.md",
+      "skillPath": "skills/short/SKILL.md",
       "computedHash": "be59659e4791ab988653bfc532a88702f7b07fbb7e78671fd772c422171de5cd"
     }
   }
