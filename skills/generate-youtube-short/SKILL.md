@@ -1,3 +1,8 @@
+---
+name: Generate YouTube Short
+description: Convert any landscape video into a YouTube Short (9:16, ≤60s) with AI-generated captions burned in using Whisper + ffmpeg.
+---
+
 # Generate YouTube Short
 
 Convert any landscape video into a YouTube Short — **9:16 portrait (1080×1920), trimmed to 60 seconds, with AI-generated captions burned in**.
